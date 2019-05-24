@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'NotoSerif';
+    src: url('https://dlthanh.github.io/Assets/fonts/NotoSerif-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'NotoSerif';
+    src: url('https://dlthanh.github.io/Assets/fonts/NotoSerif-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'NotoSerif';
+    src: url('https://dlthanh.github.io/Assets/fonts/NotoSerif-Bold.ttf') format('truetype');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'NotoSerif';
+    src: url('https://dlthanh.github.io/Assets/fonts/NotoSerif-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic
+}
+@font-face {
+    font-family: 'Gotham';
+    src: url('https://dlthanh.github.io/Assets/fonts/Gotham.ttf') format('truetype');
+    font-weight: 400;
+}
